@@ -13,15 +13,21 @@ import image11 from '../assets/images/image-11.jpeg';
 
 
 const Images = () => {
+
+const handleClick = () =>{
+  console.log('done');
+}
+
   return (
     <div>
         <div className='border p-6 grid grid-col'>
 
             <div>
                 <h2 className='font-bold text-2xl'>Gallery</h2>
+                <button onClick={handleClick}>Click</button>
             </div>
            <div className='grid grid-cols-5 border gap-5'>
-              <img src={image1} className='row-span-2 col-span-2 hover' alt="" />
+              <img src={image1} className='row-span-2 col-span-2 hover:' alt="" />
               <img src={image2} alt="" />
               <img src={image3} alt="" />
               <img src={image4} alt="" />

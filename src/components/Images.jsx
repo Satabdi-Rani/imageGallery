@@ -39,6 +39,10 @@ const handleClick = () =>{
               <img src={image10} alt="" />
               <img src={image11} alt="" />
            </div>
+           <div>
+            <button>Click Here</button>
+            <p>Details</p>
+           </div>
         </div>
     </div>
   )

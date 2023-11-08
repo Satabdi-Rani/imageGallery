@@ -43,6 +43,10 @@ const handleClick = () =>{
             <button>Click Here</button>
             <p>Details</p>
            </div>
+           <div>
+            <button>Know More</button>
+            <p>Details</p>
+           </div>
         </div>
     </div>
   )

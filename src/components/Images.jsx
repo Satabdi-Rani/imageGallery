@@ -51,6 +51,10 @@ const handleClick = () =>{
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi nisi voluptatem unde sequi odio similique soluta maxime voluptates quis provident dolor modi aperiam, consectetur officia deserunt ratione odit sed voluptas.</p>
             <h6>Know More....</h6>
            </div>
+           <div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi nisi voluptatem unde sequi odio similique soluta maxime voluptates quis provident dolor modi aperiam, consectetur officia deserunt ratione odit sed voluptas.</p>
+            <h6>Know More....</h6>
+           </div>
         </div>
     </div>
   )
